@@ -6,7 +6,7 @@ ZSH plugin to launch golinks from your terminal
 Only has one command `golink` that will open a golink with your first argument in your default browser.
 
 ```bash
-golink repo
+golink name
 ```
 
 Maybe coming soon: autocomplete.
